@@ -40,7 +40,7 @@ Fitur yang tersedia dalam aplikasi ini adalah:
 8. Menampilkan ringkasan total pengeluaran berdasarkan bulan.
 9. Menampilkan kategori pengeluaran terbesar.
 10. Melakukan pengaturan atau mengubah budget harian.
-11. Beberapa validasi input untuk menjaga data tetap rapi dan mencegah adanya error
+11. Beberapa validasi input untuk menjaga data tetap rapi dan meng-handle error
 
 ---
 
