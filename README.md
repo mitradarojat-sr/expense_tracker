@@ -52,7 +52,15 @@ Flow chart aplikasi dapat dilihat melalui link berikut:
 
 ---
 
-## 7. Limitasi Aplikasi
+## 7.Minimum Requirement
+
+- Python ver 3.14.4
+- VS Code
+- datetime library
+
+---
+
+## 8. Limitasi Aplikasi
 
 Aplikasi **expense_tracker** masih memiliki beberapa keterbatasan, yaitu:
 
@@ -88,12 +96,12 @@ Aplikasi **expense_tracker** masih memiliki beberapa keterbatasan, yaitu:
 
 ---
 
-## 8. Pengembangan Berikutnya
+## 9. Pengembangan Berikutnya
 
 Selanjutnya, aplikasi ini bisa dikembangkan untuk menjawab limitasi yang ada di atas.
 
 ---
 
-## 9. License
+## 10. Credit
 
 This project is created by Mitra Surya Darojat, for educational purposes.
