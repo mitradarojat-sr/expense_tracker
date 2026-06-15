@@ -49,3 +49,7 @@ Fitur yang tersedia dalam aplikasi ini adalah:
 Flow chart aplikasi dapat dilihat melalui link berikut:
 
 [Flow Chart expense_tracker](https://drive.google.com/file/d/1asmsALSbTvFfGqp86PoJ9y0kESX8xeKy/view?usp=sharing)
+
+## 7. License
+
+This project is for educational purposes.
