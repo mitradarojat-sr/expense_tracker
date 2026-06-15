@@ -12,16 +12,17 @@ Aplikasi manajemen pengeluaran harian yang ditulis menggunakan bahasa pemrograma
 Membantu pengguna melakukan tracking dan kontrol terhadap pengeluarannya.
 
 5. Penjelasan Fitur
-a. Menampilkan semua pengeluaran
-b. Menampilkan pengeluran berdasarkan filter tanggal dan kategori
-c. Menambah data pengeluaran
-d. Mengedit data pengeluaran
-e. Memeberikan warning ketika pengeluaran di suatu hari melebih budget yand ditetapkan
-f. Menghapus data pengaluaran tertentu
-g. Menampilkan ringakasan total pengeluaran berdasarkan hari
-h. Menampilkan ringakasan total pengeluaran berdasarkan bulan
-i. Menampilkan kategori pengeluaran terbesar
-j. Melakukan pengaturan/mengubah budget harian
+
+  a. Menampilkan semua pengeluaran
+  b. Menampilkan pengeluran berdasarkan filter tanggal dan kategori
+  c. Menambah data pengeluaran
+  d. Mengedit data pengeluaran
+  e. Memeberikan warning ketika pengeluaran di suatu hari melebih budget yand ditetapkan
+  f. Menghapus data pengaluaran tertentu
+  g. Menampilkan ringakasan total pengeluaran berdasarkan hari
+  h. Menampilkan ringakasan total pengeluaran berdasarkan bulan
+  i. Menampilkan kategori pengeluaran terbesar
+  j. Melakukan pengaturan/mengubah budget harian
 
 7. Flow Chart
-https://drive.google.com/file/d/1asmsALSbTvFfGqp86PoJ9y0kESX8xeKy/view?usp=sharing
+[Flow Chart] (https://drive.google.com/file/d/1asmsALSbTvFfGqp86PoJ9y0kESX8xeKy/view?usp=sharing)
