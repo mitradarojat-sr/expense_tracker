@@ -52,7 +52,7 @@ Flow chart aplikasi dapat dilihat melalui link berikut:
 
 ---
 
-## Limitasi Aplikasi
+## 7. Limitasi Aplikasi
 
 Aplikasi **expense_tracker** masih memiliki beberapa keterbatasan, yaitu:
 
@@ -88,6 +88,12 @@ Aplikasi **expense_tracker** masih memiliki beberapa keterbatasan, yaitu:
 
 ---
 
-## 7. License
+## 8. Pengemgangan Berikutnya
+
+Selanjutnya, aplikasi ini bisa dikembangkan untuk menjawab limitasi yang ada di atas.
+
+---
+
+## 9. License
 
 This project is for educational purposes.
