@@ -88,7 +88,7 @@ Aplikasi **expense_tracker** masih memiliki beberapa keterbatasan, yaitu:
 
 ---
 
-## 8. Pengemgangan Berikutnya
+## 8. Pengembangan Berikutnya
 
 Selanjutnya, aplikasi ini bisa dikembangkan untuk menjawab limitasi yang ada di atas.
 
@@ -96,4 +96,4 @@ Selanjutnya, aplikasi ini bisa dikembangkan untuk menjawab limitasi yang ada di 
 
 ## 9. License
 
-This project is for educational purposes.
+This project is created by Mitra Surya Darojat, for educational purposes.
