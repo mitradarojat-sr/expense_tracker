@@ -50,6 +50,44 @@ Flow chart aplikasi dapat dilihat melalui link berikut:
 
 [Flow Chart expense_tracker](https://drive.google.com/file/d/1asmsALSbTvFfGqp86PoJ9y0kESX8xeKy/view?usp=sharing)
 
+---
+
+## Limitasi Aplikasi
+
+Aplikasi **expense_tracker** masih memiliki beberapa keterbatasan, yaitu:
+
+1. **Data belum tersimpan permanen**  
+   Data pengeluaran hanya tersimpan selama program berjalan. Jika program ditutup, data baru yang ditambahkan akan hilang karena belum menggunakan file eksternal atau database.
+
+2. **Aplikasi masih berbasis terminal**  
+   Aplikasi hanya dapat dijalankan melalui terminal/command line dan belum memiliki tampilan antarmuka grafis atau GUI.
+
+3. **Belum ada sistem login pengguna**  
+   Aplikasi belum mendukung multi-user, sehingga semua data dianggap milik satu pengguna saja.
+
+4. **Belum ada kategori tetap**  
+   User masih bisa memasukkan kategori secara bebas. Hal ini dapat menyebabkan kategori yang mirip tetapi berbeda penulisan, misalnya `Makan`, `Makanan`, atau `Food`.
+
+5. **Belum tersedia fitur ekspor data**  
+   Aplikasi belum bisa mengekspor data pengeluaran ke format lain seperti `.csv`, `.xlsx`, atau `.pdf`.
+
+6. **Belum tersedia visualisasi data**  
+   Ringkasan pengeluaran masih ditampilkan dalam bentuk teks, belum dalam bentuk grafik atau chart.
+
+7. **Budget hanya berlaku harian**  
+   Fitur budget saat ini hanya digunakan untuk mengecek pengeluaran harian, belum mendukung budget mingguan, bulanan, atau per kategori.
+
+8. **Nomor pengeluaran belum menggunakan ID permanen**  
+   Nomor pengeluaran ditampilkan berdasarkan urutan data dalam list. Jika data dihapus, nomor urut dapat berubah.
+
+9. **Belum ada fitur pencarian berdasarkan nama pengeluaran**  
+   Filter data saat ini hanya tersedia berdasarkan tanggal dan kategori.
+
+10. **Format tanggal masih manual**  
+    User harus memasukkan tanggal dengan format `DD-MM-YYYY`. Jika format salah, aplikasi akan meminta user mengulang input.
+
+---
+
 ## 7. License
 
 This project is for educational purposes.
